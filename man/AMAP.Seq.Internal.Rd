@@ -1,0 +1,34 @@
+\name{AMAP.Seq.Internal}
+\alias{map-package}
+\alias{RNASeq.Data.Gene}
+\alias{posterior.uv.one}
+\alias{dispersion.nb.shrink}
+\alias{EXP.part.nbinom}
+\alias{MAX.step}
+\alias{Norm.GMedian}
+\alias{pdf2grid}
+\alias{decom.initial}
+\alias{est.mu.nb.mle}
+\alias{EXP.part.poisson}
+\alias{dispersion.nb.QL}
+\alias{est.v.nb.QL}
+\alias{EXP.step}
+\alias{nb.lglk}
+\alias{test.amap.gene}
+\alias{int.nbinom.prior}
+\alias{LogSum}
+\alias{test.amap.as}
+\alias{initial.uv}
+\alias{prior.est}
+\alias{posterior.uv}
+\alias{prior.grid}
+\alias{dist.CvM2D}
+\alias{pdf2cdf}
+\alias{counts}
+\alias{del.true}
+\title{
+ Internal functions/data for AMAP.Seq package 
+}
+\description{
+ Internal functions for AMAP.Seq package 
+}

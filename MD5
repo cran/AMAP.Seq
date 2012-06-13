@@ -1,0 +1,12 @@
+a3f1ed51995f116c44dd9b2f96039628 *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+0990155fa181c17704a3b30a85197629 *R/data.r
+8a5f66d98a6e9957c22bcaa0fd2fca3e *R/post-prob.r
+2f33d505007484749129269df67af04c *R/prior-MGN.r
+0a68dcb3b92687af96eaf53fe2c6dbfd *R/prior-est.r
+c3891f356df1eecc4db43f4c4b4b4077 *R/test-amap.r
+6cd4f73ab8786669674fd79dee07f378 *data/SimuHapMap.RData
+25aef6ec901d9db8be88eeed807762fa *man/AMAP.Seq.Internal.Rd
+198f118183999f9531ed760bddc16dbd *man/MGN.EM.Rd
+7714f6099ecd5edd01b8750f8cea17fd *man/RNASeq.Data.Rd
+678a3dbf0c73ebbb71b02f491d223f7e *man/test.AMAP.Rd
